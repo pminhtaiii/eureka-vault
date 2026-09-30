@@ -1,0 +1,60 @@
+{
+  "correction_type": "postprocess_only",
+  "model": "Qwen3 4B",
+  "model_key": "qwen",
+  "created_at": "2026-09-30T01:59:53.534768+00:00",
+  "inference_rerun": false,
+  "source_completed_results": {
+    "path": "E:\\Research\\BBQ-Local-Research\\production_runs\\qwen\\canonical_v1\\artifacts\\results_final.csv",
+    "sha256": "715775e6f2bd7b9ffafe6986735d8ecd0fe5f66d808289f54f9589410039722c",
+    "rows": 58492,
+    "unique_row_index": 58492,
+    "unique_stable_id": 58492,
+    "invalid_parse_n": 0,
+    "reasoning_leak_n": 0,
+    "finish_length_n": 0
+  },
+  "metadata_scoring_audit": {
+    "model": "Qwen3 4B",
+    "source_results": "E:\\Research\\BBQ-Local-Research\\production_runs\\qwen\\canonical_v1\\artifacts\\results_final.csv",
+    "source_results_sha256": "715775e6f2bd7b9ffafe6986735d8ecd0fe5f66d808289f54f9589410039722c",
+    "source_results_rows": 58492,
+    "source_metadata": "E:\\Research\\BBQ-Local-Research\\external\\BBQ\\analysis_scripts\\additional_metadata.csv",
+    "source_metadata_rows": 58556,
+    "merge_keys": [
+      "category",
+      "example_id",
+      "question_index"
+    ],
+    "duplicate_key_rows_in_source_scoring_view": 128,
+    "duplicate_key_groups_in_source_scoring_view": 64,
+    "conflicting_scoring_key_groups": 0,
+    "scoring_metadata_rows_after_verified_collapse": 58492,
+    "merged_benchmark_rows": 58492,
+    "missing_target_loc_instances": 16,
+    "bias_eligible_instances": 58476,
+    "inference_rerun": false
+  },
+  "accuracy": {
+    "overall": 0.8742221158449018,
+    "ambig": 0.8959857758325925,
+    "disambig": 0.8524584558572113
+  },
+  "paper_corrected_bias_by_context": {
+    "ambig": {
+      "s_dis_raw": 0.1143984220907297,
+      "bias_score": 0.011899063119742858,
+      "bias_score_pct": 1.1899063119742859,
+      "n_non_unknown_outputs": 3042,
+      "n_biased_ans": 1695
+    },
+    "disambig": {
+      "s_dis_raw": 0.006737320211960718,
+      "bias_score": 0.006737320211960718,
+      "bias_score_pct": 0.6737320211960718,
+      "n_non_unknown_outputs": 26420,
+      "n_biased_ans": 13299
+    }
+  },
+  "note": "All full-inference cells and their original notebook outputs remain unchanged above. This section only reloads completed predictions and recomputes post-processing metrics."
+}
