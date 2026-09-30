@@ -1,0 +1,26 @@
+{
+  "build_info": "b10964-b29c606e2",
+  "server_command": [
+    "E:\\Research\\BBQ-Local-Research\\runtime\\llama.cpp\\b10964-vulkan-x64\\llama-server.exe",
+    "-m",
+    "E:\\Research\\BBQ-Local-Research\\models\\granite_4_1_3b\\granite-4.1-3b-Q4_K_M.gguf",
+    "--device",
+    "Vulkan1",
+    "-ngl",
+    "auto",
+    "-c",
+    "1024",
+    "-np",
+    "1",
+    "--host",
+    "127.0.0.1",
+    "--port",
+    "8200",
+    "--reasoning",
+    "off"
+  ],
+  "gpu_loaded": "NVIDIA GeForce GTX 1650, 610.74, 4096, 2146, 1790, P0, 62",
+  "template_user_only_equals_empty_system": true,
+  "smoke_rows": 8,
+  "smoke_pass": true
+}
