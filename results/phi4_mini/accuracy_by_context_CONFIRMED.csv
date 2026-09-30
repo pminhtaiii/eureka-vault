@@ -1,0 +1,3 @@
+context_condition,n,correct_n,accuracy,invalid_parse_n,unknown_prediction_n
+ambig,29246,25293,0.864836216918553,0,25293
+disambig,29246,26609,0.909833823428845,0,990
