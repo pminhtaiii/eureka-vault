@@ -1,4 +1,4 @@
-# BBQ local-model results — GitHub upload package
+# BBQ local-model results 
 
 This folder contains the curated result artifacts needed for team analysis and reproducibility.
 
