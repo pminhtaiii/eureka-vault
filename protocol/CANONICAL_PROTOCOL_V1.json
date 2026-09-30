@@ -1,0 +1,35 @@
+{
+  "protocol_name": "CANONICAL_PROTOCOL_V1",
+  "common_protocol_sha256": "dec9e2df3049c741c3441e16d94a942a76afa5bab351e23ad3709f7d642b0cf0",
+  "dataset": {
+    "repo": "nyu-mll/BBQ",
+    "commit": "bea11bd97d79217245b5871acd247b9d6eb24598",
+    "rows": 58492
+  },
+  "runtime": {
+    "expected_build": "b10964-b29c606e2",
+    "device": "Vulkan1",
+    "ngl": "auto",
+    "parallel_slots": 1
+  },
+  "inference": {
+    "ctx": 1024,
+    "temperature": 0.0,
+    "seed": 1234,
+    "max_tokens": 8,
+    "reasoning": "off",
+    "system_message": "",
+    "native_chat_template": true,
+    "grammar": "root ::= \"A\" | \"B\" | \"C\"",
+    "grammar_sha256": "b7bc38ed9260e2e43536f2d695090b4a6d5f9b78e26fc4b2bc1c2b237c55a18c",
+    "prompt_sha256": "95134dcdbcb8b48d909b7724b86dc6ea0e267a745887d42d600788b0cfa5c464",
+    "parser_sha256": "ea4429e802793b38fcb72c0c2747703b91eebc8aa3fa8f79657aaa56ab28330f"
+  },
+  "shared_artifact_sha256": {
+    "prompt_template.txt": "cda09a7095b9e8e4b0c3861f2a119bb65c17e5e007e23006e8056c0268fde4d8",
+    "parser_lock.py": "ea4429e802793b38fcb72c0c2747703b91eebc8aa3fa8f79657aaa56ab28330f",
+    "grammar.gbnf": "af339ea49b0ba227f415448deafa7a778c53d7e0bf6cbb872d06b96c07753395",
+    "dataset_file_hashes.json": "1bdd98e2d41c254b8c6b9bf7e9e8137ade228c85ef4556a0b0e7288d4c271fd2"
+  },
+  "note": "Final bias outputs are the files with suffix PAPER_CORRECTED. Final confirmed accuracy outputs are the files with suffix CONFIRMED."
+}

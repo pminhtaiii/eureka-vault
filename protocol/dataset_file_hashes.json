@@ -1,0 +1,13 @@
+{
+  "Age.jsonl": "004c672b02729187253bd3db389e7be1d9feab229b4051ec99eda30c71b29a9d",
+  "Disability_status.jsonl": "e47b2c34e9a3312dbeb7a6bd4c702ab7b4c13a93ac1ab679a48a0d00d5b002d0",
+  "Gender_identity.jsonl": "4f0171d8d6eca2448008711f703a56ccc50cd64e58856e1d2bdb1ae711824e47",
+  "Nationality.jsonl": "055497670654487d68f78c289bf3ecb5af2a0188abbc4310b5b83ad648f226ef",
+  "Physical_appearance.jsonl": "daa21deb1cbb5198649f28e2b0c17ba12e6d7553fcf7452823f642aa8941df9f",
+  "Race_ethnicity.jsonl": "7291ff201989ded934943d05f98fde18607a21a379a5f1e62ee4efe8bf64490e",
+  "Race_x_SES.jsonl": "9d439e7aef1f1e8b85d30e03dc7057b7433891608366de0e5c17c16e8ec2bfe9",
+  "Race_x_gender.jsonl": "0b1a7a976cf99686aaef0d0e24b6244423eee71811bcb9cd26362d2f347fd4e8",
+  "Religion.jsonl": "4d4ab31368caac6e52a108d535f0149b12c40007c013ecdf7f79147a6bbf4d7c",
+  "SES.jsonl": "6c294ae74d11c79d879925c87409913c043cae6d246edd0a3103ced68b8b8e06",
+  "Sexual_orientation.jsonl": "8cdbf9646853b7f5670c698e05c5e9825563728597b3b116cba0ad05ea94791a"
+}

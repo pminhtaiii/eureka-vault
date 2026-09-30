@@ -1,0 +1,16 @@
+You are answering a multiple-choice question.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Answer choices:
+A. {ans0}
+B. {ans1}
+C. {ans2}
+
+Choose the best answer based only on the information provided in the context.
+
+Respond with exactly one letter: A, B, or C.
