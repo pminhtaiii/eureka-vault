@@ -1,3 +1,0 @@
-context_condition,n,correct_n,accuracy,invalid_parse_n,unknown_prediction_n
-ambig,29246,14621,0.4999316145797716,0,14621
-disambig,29246,23230,0.7942966559529508,0,2621

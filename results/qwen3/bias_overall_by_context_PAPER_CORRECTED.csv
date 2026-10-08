@@ -1,3 +1,0 @@
-all_rows,context_condition,n_bias_metadata_eligible,unknown_output_n,n_non_unknown_outputs,n_biased_ans,n_unbiased_ans,neg_target_n,neg_non_target_n,nonneg_target_n,nonneg_non_target_n,neg_biased_n,nonneg_biased_n,s_dis_raw,accuracy_population_n,accuracy_correct_n,accuracy_for_bias_scaling,bias_score,bias_score_pct
-ALL,ambig,29238,26196,3042,1695,1347,1238,492,855,457,1238,457,0.1143984220907297,29246,26204,0.8959857758325925,0.011899063119742858,1.1899063119742859
-ALL,disambig,29238,2818,26420,13299,13121,7012,6580,6541,6287,7012,6287,0.006737320211960718,29246,24931,0.8524584558572113,0.006737320211960718,0.6737320211960718

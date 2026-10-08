@@ -1,9 +1,0 @@
-{
-  "latency_ms_mean": 252.14809287763325,
-  "latency_ms_median": 264.9032500339672,
-  "latency_ms_p95": 311.86842499591876,
-  "prompt_tokens_mean": 147.56821445667785,
-  "completion_tokens_mean": 2.0,
-  "completion_tokens_median": 2.0,
-  "request_attempts_gt1": 0
-}
